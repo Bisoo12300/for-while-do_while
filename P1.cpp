@@ -1,3 +1,8 @@
+//VCT nhập n, k. Tính:
+//S1 = 1 + 1/2 + … + 1/n
+//S2 = 2/1! - 3/2! + 4/3! - 5/4! + … - (2n+1)/2n!
+//S3 = n! / k!(n-k)!   
+
 #include <iostream>
 using namespace std;
 
