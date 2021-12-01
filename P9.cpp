@@ -1,3 +1,5 @@
+//VCT tìm ước số chung lớn nhất của 2 số nguyên dương M và N.
+
 #include <iostream>
 using namespace std;
 
