@@ -1,3 +1,10 @@
+//VCT nhập một số nguyên dương n. Xác định:
+//Tổng các chữ số của số vừa nhập có bằng tích.
+//Các chữ số này có tăng dần hay giảm dần không?
+//Số này có phải là số đối xứng? (các chữ số đối xứng, vd: 77, 191, 2002,..)
+//Số này có phải là số nguyên tố?
+//Số này có phải là số hoàn chỉnh (bằng tổng các ước nhỏ hơn nó, vd 6 = 1+2+3)
+
 #include <iostream>
 using namespace std;
 
