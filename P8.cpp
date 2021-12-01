@@ -1,3 +1,9 @@
+//Viết chương trình (VCT) nhập ba số nguyên a,b,c. Kiểm tra xem chúng có thứ tự như thế nào (tăng, giảm, hay không tăng cũng không giảm). 
+//Sau đó thực hiện các việc:
+//Nếu tăng: Giải bất phương trình bậc hai aX^2+bX+c>0
+//Nếu giảm: Giải phương trình bậc hai aX^2+bX+c<0
+//Không tăng không giảm: Giải phương trình bậc hai aX^2+bX+c=0
+
 #include <iostream>
 #include <math.h>
 using namespace std;
