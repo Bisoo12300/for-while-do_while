@@ -1,3 +1,5 @@
+//VCT tính căn bậc ba của một số thực chính xác đến 0.001 – áp dụng thuật toán nhị phân, không dùng đến các hàm tính toán.
+
 #include <iostream>
 using namespace std;
 
