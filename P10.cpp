@@ -1,3 +1,5 @@
+//Xác định phần tử thứ k của dãy Fibonacci:  F(0)=0;  F1=(1);  F(n)=F(n-1)+F(n-2) 
+
 #include <iostream>
 using namespace std;
 
