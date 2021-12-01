@@ -1,3 +1,5 @@
+// VCT nhập vào 1 số nguyên dương, kiểm tra xem tổng các chữ số có bằng tích và xuất ra thông báo tương ứng, lặp lại việc trên cho đến khi nhập số 0.
+
 #include <iostream>
 using namespace std;
 
