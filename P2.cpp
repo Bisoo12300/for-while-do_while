@@ -1,3 +1,8 @@
+//VCT nhập các số thực cho đến khi gặp số 0.
+//Xác định số lớn nhất.
+//Xác định số thực dương nhỏ nhất.
+//Xác định số thực âm gần với -123.45 nhất.
+
 #include <iostream>
 using namespace std;
 
